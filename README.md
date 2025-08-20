@@ -24,7 +24,7 @@ These figures reflect widespread vulnerability and underscore the urgent need fo
 - **Uttar Pradesh** recorded the highest number of cases, making it the most unsafe state for women and girls in 2022.
 
 ## Dashboard
-- <a href="https://github.com/edifoninigodwin/crime-against-women-india-2022/blob/main/crime%20against%20women%20dashboard.png">Dashboard1</a>
+- <a href="https://github.com/edifoninigodwin/crime-against-women-india-2022/blob/main/crime%20against%20women%20dashboard.png">Dashboard</a>
 ---
 
 ## Statistical Insights
